@@ -12,6 +12,7 @@
         android:layout_centerInParent="true">
 
     <Switch
+        android:checked="false"
         android:id="@+id/swButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -23,7 +24,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:paddingTop="20dp"
-        android:text="Burada Ayar Durumu Görünecek"/>
+        android:text="AYAR: KAPALI"/>
 
     </android.support.v7.widget.LinearLayoutCompat>
 
