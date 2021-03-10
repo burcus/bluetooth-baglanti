@@ -1,3 +1,3 @@
 # BluetoothBaglanti
 
-Android'de bluetooth ile ilgili temel işlemleri
+Android'de bluetooth ile ilgili temel işlemler
